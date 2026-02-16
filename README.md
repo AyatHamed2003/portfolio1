@@ -85,8 +85,3 @@ If you are interested in getting your own custom portfolio website:
 
 © 2026 Ayat Hamed. All Rights Reserved.
 Unauthorized use or reproduction is prohibited.
-
-
-This project is open-source and free to use for educational purposes.
-
----
